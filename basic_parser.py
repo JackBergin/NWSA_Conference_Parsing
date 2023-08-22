@@ -3,7 +3,7 @@ from collections import Counter
 import re
 
 # Define the PDF file path
-pdf_file_path = "/Users/berginjack/Documents/Develop/NWSA_Parsing/2018 NWSA program.pdf"
+pdf_file_path = "2018 NWSA program.pdf"
 
 # Define the words you want to search for
 target_words = [

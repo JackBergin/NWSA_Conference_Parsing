@@ -89,11 +89,11 @@ def parse_sections():
 if __name__ == "__main__":
     # PDF file path
     pdf_file = open(
-        "/Users/berginjack/Documents/Develop/NWSA_Parsing/2018 NWSA program.pdf", "rb"
+        "2018 NWSA program.pdf", "rb"
     )
 
     # CSV file path
-    csv_file = "/Users/berginjack/Documents/Develop/NWSA_Parsing/output.csv"
+    csv_file = "output.csv"
 
     # Pdf conversion to Csv file type for proper parsing (This only needs to be run once):
     # pdf_to_csv()

@@ -2,11 +2,20 @@ import PyPDF2
 from collections import Counter
 import re
 
+global_count =0 
 
 def section_headers():
     # Define the headers that mark the beginning of sections
-    number_list = [f"{str(i).zfill(3)}." for i in range(20, 648)]
-    print(number_list)
+    number_list = [f"{str(i).zfill(3)}." for i in range(5, 648)]    
+    # Needs to be included due to naming conflicts for the first 5-19 events
+    custom_headers = ['005. Digital', '006. Bodies', '007. Academic', '008.', '009.',
+                  '010. Gender', '011. Art', '012. Making', 
+                  '013. Imagínate', '014. Continuing', '015. (De)Regulating', 
+                  '016. Gender', '017. (Il)Legible', '018. Inviting', '019. Cite']
+    
+    for i in range (0,len(custom_headers)):
+        number_list[i]=custom_headers[i]
+        
     return number_list
 
 
@@ -21,18 +30,24 @@ def extract_section_text(pdf_reader, start_page, end_page):
 # Define the PDF file path
 pdf_file_path = "2018 NWSA program.pdf"
 
-# Define the words you want to search for
+# Keywords for parsing
 target_words = [
+    "integrational issues",
     "motherhood",
+    "queer studies",
     "lesbian",
     "trans",
     "race",
     "transnational",
     "class",
     "capitalism",
+    "reproductive justice",
 ]
 
 section_headers = section_headers()
+
+
+
 # Initialize Counters for each target word
 word_counters = {word: Counter() for word in target_words}
 
@@ -75,4 +90,5 @@ with open(pdf_file_path, "rb") as pdf_file:
                 print(f"Occurrences for '{current_header}':")
                 for word, count in section_word_counter.items():
                     print(f"'{word}': {count}")
+
                 print()

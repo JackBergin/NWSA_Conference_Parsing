@@ -33,10 +33,11 @@ def parser():
     end_page = [232, 290, 267, 299, 152]    # Ending at the fifth page
     # Keywords for parsing
     keywords = [
-        "integrational issues",
+        "intergenerational",
         "motherhood",
-        "queer studies",
+        "queer",
         "lesbian",
+        "gay",
         "trans",
         "race",
         "transnational",

@@ -1,22 +1,21 @@
 Parsing Results:
 These results were achived by parsing each of the General Conferences and counting each time one of the following keywords occurred. 
 
-
------------------- 2015 NWSA CONFERENCE ------------------------
-Cumulative count of the keyword 'integrational issues': 0
+------------------------- 2015 General Conference -------------------------
+Cumulative count of the keyword 'intergenerational': 12  
 Cumulative count of the keyword 'motherhood': 62
-Cumulative count of the keyword 'queer studies': 3
+Cumulative count of the keyword 'queer': 305
 Cumulative count of the keyword 'lesbian': 91
 Cumulative count of the keyword 'trans': 599
 Cumulative count of the keyword 'race': 189
-Cumulative count of the keyword 'transnational': 110
+Cumulative count of the keyword 'transnational': 110     
 Cumulative count of the keyword 'class': 237
 Cumulative count of the keyword 'capitalism': 18
 Cumulative count of the keyword 'reproductive justice': 9
------------------- 2016 NWSA CONFERENCE ------------------------
-Cumulative count of the keyword 'integrational issues': 0
+------------------------- 2016 General Conference -------------------------
+Cumulative count of the keyword 'intergenerational': 16
 Cumulative count of the keyword 'motherhood': 33
-Cumulative count of the keyword 'queer studies': 8
+Cumulative count of the keyword 'queer': 437
 Cumulative count of the keyword 'lesbian': 64
 Cumulative count of the keyword 'trans': 677
 Cumulative count of the keyword 'race': 250
@@ -24,10 +23,10 @@ Cumulative count of the keyword 'transnational': 163
 Cumulative count of the keyword 'class': 199
 Cumulative count of the keyword 'capitalism': 33
 Cumulative count of the keyword 'reproductive justice': 18
------------------- 2017 NWSA CONFERENCE ------------------------
-Cumulative count of the keyword 'integrational issues': 0
+------------------------- 2017 General Conference -------------------------
+Cumulative count of the keyword 'intergenerational': 23
 Cumulative count of the keyword 'motherhood': 30
-Cumulative count of the keyword 'queer studies': 8
+Cumulative count of the keyword 'queer': 464
 Cumulative count of the keyword 'lesbian': 97
 Cumulative count of the keyword 'trans': 666
 Cumulative count of the keyword 'race': 340
@@ -35,10 +34,10 @@ Cumulative count of the keyword 'transnational': 204
 Cumulative count of the keyword 'class': 252
 Cumulative count of the keyword 'capitalism': 29
 Cumulative count of the keyword 'reproductive justice': 38
------------------- 2018 NWSA CONFERENCE ------------------------
-Cumulative count of the keyword 'integrational issues': 0
+------------------------- 2018 General Conference -------------------------
+Cumulative count of the keyword 'intergenerational': 18
 Cumulative count of the keyword 'motherhood': 25
-Cumulative count of the keyword 'queer studies': 13
+Cumulative count of the keyword 'queer': 682
 Cumulative count of the keyword 'lesbian': 89
 Cumulative count of the keyword 'trans': 871
 Cumulative count of the keyword 'race': 246
@@ -46,10 +45,10 @@ Cumulative count of the keyword 'transnational': 163
 Cumulative count of the keyword 'class': 214
 Cumulative count of the keyword 'capitalism': 55
 Cumulative count of the keyword 'reproductive justice': 48
------------------- 2019 NWSA CONFERENCE ------------------------
-Cumulative count of the keyword 'integrational issues': 0
+------------------------- 2019 General Conference -------------------------
+Cumulative count of the keyword 'intergenerational': 7
 Cumulative count of the keyword 'motherhood': 10
-Cumulative count of the keyword 'queer studies': 5
+Cumulative count of the keyword 'queer': 148
 Cumulative count of the keyword 'lesbian': 34
 Cumulative count of the keyword 'trans': 355
 Cumulative count of the keyword 'race': 48

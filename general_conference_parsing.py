@@ -38,9 +38,9 @@ def parser():
         "queer",
         "lesbian",
         "gay",
-        "trans",
-        "race",
         "transnational",
+        "race",
+        "trans",
         "class",
         "capitalism",
         "reproductive justice",
@@ -53,7 +53,14 @@ def parser():
 
         print(f'------------------------- {iterator} General Conference -------------------------')
         for keyword, count in keyword_counts.items():
+            if keyword == 'transnational':
+                global _tnational_count 
+                _tnational_count= count
+            if keyword == 'trans':
+                count=count-_tnational_count
             print(f"Cumulative count of the keyword '{keyword}': {count}")
+
+_tnational_count=0
 
 if __name__ == "__main__":
     parser()

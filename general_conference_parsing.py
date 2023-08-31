@@ -23,11 +23,11 @@ def extract_pdf_content(pdf_path, start_page, end_page, keywords):
     return content, keyword_counts
 
 def parser():
-    pdf_paths = [r"C:\Users\jackc\Documents\NWSA_Conference_Parsing\pdf_files\2015_program.pdf", 
-                 r"C:\Users\jackc\Documents\NWSA_Conference_Parsing\pdf_files\2016_program.pdf", 
-                 r"C:\Users\jackc\Documents\NWSA_Conference_Parsing\pdf_files\2017_program.pdf", 
-                 r"C:\Users\jackc\Documents\NWSA_Conference_Parsing\pdf_files\2018_program.pdf", 
-                 r"C:\Users\jackc\Documents\NWSA_Conference_Parsing\pdf_files\2019_program.pdf"]
+    pdf_paths = [r"pdf_files\2015_program.pdf", 
+                 r"pdf_files\2016_program.pdf", 
+                 r"pdf_files\2017_program.pdf", 
+                 r"pdf_files\2018_program.pdf", 
+                 r"pdf_files\2019_program.pdf"]
     
     start_page = [40, 50, 62, 60, 60]  # Starting from the first page
     end_page = [232, 290, 267, 299, 152]    # Ending at the fifth page

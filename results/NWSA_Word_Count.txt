@@ -1,13 +1,13 @@
 Parsing Results:
 These results were achived by parsing each of the General Conferences and counting each time one of the following keywords occurred.
- 
+
 ------------------------- 2015 General Conference -------------------------
-Cumulative count of the keyword 'intergenerational': 12
+Cumulative count of the keyword 'intergenerational': 12  
 Cumulative count of the keyword 'motherhood': 62
 Cumulative count of the keyword 'queer': 305
 Cumulative count of the keyword 'lesbian': 91
 Cumulative count of the keyword 'gay': 57
-Cumulative count of the keyword 'transnational': 110
+Cumulative count of the keyword 'transnational': 110     
 Cumulative count of the keyword 'race': 189
 Cumulative count of the keyword 'trans': 489
 Cumulative count of the keyword 'class': 237
@@ -15,11 +15,11 @@ Cumulative count of the keyword 'capitalism': 18
 Cumulative count of the keyword 'reproductive justice': 9
 ------------------------- 2016 General Conference -------------------------
 Cumulative count of the keyword 'intergenerational': 16
-Cumulative count of the keyword 'motherhood': 33
+Cumulative count of the keyword 'motherhood': 33       
 Cumulative count of the keyword 'queer': 437
 Cumulative count of the keyword 'lesbian': 64
 Cumulative count of the keyword 'gay': 72
-Cumulative count of the keyword 'transnational': 163
+Cumulative count of the keyword 'transnational': 163   
 Cumulative count of the keyword 'race': 250
 Cumulative count of the keyword 'trans': 514
 Cumulative count of the keyword 'class': 199
@@ -45,9 +45,11 @@ Cumulative count of the keyword 'lesbian': 89
 Cumulative count of the keyword 'gay': 47
 Cumulative count of the keyword 'transnational': 163
 Cumulative count of the keyword 'race': 246
-Added logic to not double count transnational
+Cumulative count of the keyword 'trans': 708
+Cumulative count of the keyword 'class': 214
 Cumulative count of the keyword 'capitalism': 55
 Cumulative count of the keyword 'reproductive justice': 48
+------------------------- 2019 General Conference -------------------------
 Cumulative count of the keyword 'intergenerational': 7
 Cumulative count of the keyword 'motherhood': 10
 Cumulative count of the keyword 'queer': 148

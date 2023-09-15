@@ -13,7 +13,7 @@ Cumulative count of the keyword 'trans': 489
 Cumulative count of the keyword 'class': 237
 Cumulative count of the keyword 'capitalism': 18
 Cumulative count of the keyword 'reproductive justice': 9
-------------------------- 2016 General Conference -------------------------
+------------------------- 2016 General Conference ------------------------
 Cumulative count of the keyword 'intergenerational': 16
 Cumulative count of the keyword 'motherhood': 33       
 Cumulative count of the keyword 'queer': 437
